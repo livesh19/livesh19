@@ -2,8 +2,8 @@
 
 An Undergrad Student exploring AI/ML & Development
 
-![Banner Image](https://giphy.com/gifs/HombaleFilms-salaar-trailer-new-X8V1x7aEdWMidFRn7o)
-![Banner Image](https://giphy.com/gifs/HombaleFilms-prabhas-salaar-gifs-RS74qmTu6y5RA0KSaF)
+![My GIF](https://giphy.com/gifs/HombaleFilms-salaar-trailer-new-X8V1x7aEdWMidFRn7o)
+![My GIF](https://giphy.com/gifs/HombaleFilms-prabhas-salaar-gifs-RS74qmTu6y5RA0KSaF)
 
 ## Tech Stack
 <p align="left">
