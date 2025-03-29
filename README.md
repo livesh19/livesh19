@@ -3,7 +3,7 @@
 An Undergrad Student exploring AI/ML & Development and currently seeking oppurtunities
 
 ![myGif](https://media.giphy.com/media/RS74qmTu6y5RA0KSaF/giphy.gif?cid=790b7611mepud1kdm95ylialoqpq8ertf32gd13cnqv4ge4l&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-![myGif](https://media.giphy.com/media/6VnsDUiEQ2jtuQPkXc/giphy.gif?cid=790b7611mepud1kdm95ylialoqpq8ertf32gd13cnqv4ge4l&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 ## Tech Stack
 <p align="left">
